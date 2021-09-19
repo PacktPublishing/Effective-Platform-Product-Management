@@ -1,2 +1,2 @@
 # Building-a-Digital-Platform-Strategy
-Building a Digital Platform Strategy, published by Packt
+Effective Platform Product Management, published by Packt
